@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-security
+  datasource:
+    url: jdbc:postgresql://localhost/spring_security
+    username: postgres
+    password: root 
+  jpa:
+    show-sql: true 
